@@ -1,5 +1,5 @@
 
-# Potato Leaves Disease Segmentation
+# Potato Leaves Disease Classification
 
 This is a Pytorch CNN project to segment potato leaves based on healthy, early blight and late blight. This repository is a hands-on practise of using Pytorch to pre-process and create a basic convolutional neural network for image classification.
 
